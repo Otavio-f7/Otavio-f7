@@ -19,10 +19,6 @@
 
 ###
 
-<img align="right" height="160" src="https://64.media.tumblr.com/f607f4ee82e601614e29e919beb6409a/57a6e5a7915180f3-57/s540x810/58e7f2b2d4a8511517ba360b7d792125a3d8423d.gifv"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="50" alt="flutter logo"  />
   <img width="17" />
@@ -35,6 +31,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+</div>
+
+###
+<br clear="both">
+<br clear="both">
+
+<div align="center">
+  <img height="160" src="https://64.media.tumblr.com/f607f4ee82e601614e29e919beb6409a/57a6e5a7915180f3-57/s540x810/58e7f2b2d4a8511517ba360b7d792125a3d8423d.gifv"  />
 </div>
 
 ###
