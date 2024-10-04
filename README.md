@@ -9,7 +9,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Otavio-f7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Otavio-f7&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=15" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otavio-f7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -20,12 +19,11 @@
 
 ###
 
-<br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
+<img align="right" height="160" src="https://64.media.tumblr.com/f607f4ee82e601614e29e919beb6409a/57a6e5a7915180f3-57/s540x810/58e7f2b2d4a8511517ba360b7d792125a3d8423d.gifv"  />
 
-<div align="left">
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="50" alt="flutter logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
@@ -37,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
-  <img align="right" height="150" src="https://64.media.tumblr.com/f607f4ee82e601614e29e919beb6409a/57a6e5a7915180f3-57/s540x810/58e7f2b2d4a8511517ba360b7d792125a3d8423d.gifv"  />
 </div>
 
 ###
