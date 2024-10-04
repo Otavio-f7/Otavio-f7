@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">--<br>Mobile Developer graduated in Systems Analysis with 7 months of development using Flutter. I have user support experience that guides much of the that I develop. Learning quickly and interactively with the creation of screens, integrations with API and agile methodologies.<br>--</p>
+<p align="left">--<br>Mobile Developer graduated in Systems Analysis with 8 months of development using Flutter. I have user support experience that guides much of the that I develop. Learning quickly and interactively with the creation of screens, integrations with API and agile methodologies.<br>--</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otavio-f7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Otavio-f7&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=15" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Otavio-f7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Otavio-f7&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -57,18 +57,12 @@
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-freitas-1953a8169/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
   </a>
-  <a href="otavioj105@gmail.com" target="_blank">
+  <a href="mailto:otavioj105@gmail.com?subject=Contato&body=Olá%20,%20gostaria%20de%conversar%20mais%20sobre%20seu%20GitHub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5534991554110?text=Olá%20Otávio%20vi%20seu%20GitHub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="40" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Otavio-f7&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
