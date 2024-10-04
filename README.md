@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Otavio-f7/Otavio-f7/blob/main/snake.yml" alt="Snake animation" />
+<img src="[https://github.com/Otavio-f7/Otavio-f7/blob/main/snake.yml](https://raw.githubusercontent.com/Otavio-f7/Otavio-f7/output/snake.svg)" alt="Snake animation" />
 
 ###
