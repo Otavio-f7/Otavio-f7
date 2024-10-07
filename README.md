@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">Shall we exchange an idea? Flame!!</p>
+<p align="center">Shall we exchange an idea? Call me!!</p>
 
 ###
 
