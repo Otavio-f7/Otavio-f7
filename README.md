@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">--<br>Mobile Developer graduated in Systems Analysis with 8 months of development using Flutter. I have user support experience that guides much of the that I develop. Learning quickly and interactively with the creation of screens, integrations with API and agile methodologies.<br>--</p>
+<p align="left">--<br>Mobile Developer graduated in Systems Analysis with 1 year of development using Flutter. I have user support experience that guides much of the that I develop. Learning quickly and interactively with the creation of screens, integrations with API and agile methodologies.<br>--</p>
 
 ###
 
